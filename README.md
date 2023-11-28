@@ -11,7 +11,7 @@ Trained with YOLO v5 on 1800 high-resolution drone images, our deep learning mod
 5. Model Testing
 
 *****
-![](images/Capture.PNG)
+![](images/Capture1.PNG)
 
 ## 🌐 How to run?
 ### STEPS:
